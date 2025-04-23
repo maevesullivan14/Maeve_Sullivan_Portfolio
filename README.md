@@ -1,6 +1,6 @@
 # Maeve_Sullivan_Portfolio
 This is a portfolio for Maeve Sullivan
-# FirstName LastName
+# Maeve Sullivan
 Contact Info: [fill in]
 ### About Me 
 [Fill in Madlibs here]
