@@ -1,3 +1,4 @@
+![](/pink banner.jpg)
 # Maeve_Sullivan_Portfolio
 This is a portfolio for Maeve Sullivan
 # Maeve Sullivan
@@ -12,17 +13,6 @@ With skills in clinical care, open communication, medical research, and educatio
 My diverse skill set, commitment to family health, and passion for research me as a valuable asset.  In my spare time, I like to alpine ski and travel. 
 
 You can find me on Instagram or Moodle.
-
-![
-    <img
-        src="1163B373-9C48-45E9-9FB9-51317E829F2E.jpg" 
-        width=70%
-        border-radius=50%
-        title="Maeve Sullivan"
-        alt="Profile Pic"
-    />
-](1163B373-9C48-45E9-9FB9-51317E829F2E.jpg)
-
 
 ### Education 
 Pittsford Sutherland High School, Loyola University Maryland
