@@ -1,6 +1,7 @@
+# Maeve Sullivan Portfolio
+
 ![](/pink_banner.jpg)
 
-# Maeve_Sullivan_Portfolio
 This is a portfolio for Maeve Sullivan
 # Maeve Sullivan
 Contact Info: (585) 455-1053
