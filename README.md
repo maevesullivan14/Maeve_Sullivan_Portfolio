@@ -24,7 +24,14 @@ Pittsford Sutherland High School, Loyola University Maryland
 #### Bi-Weekly Time Sheet
  -  I created an excel spreadsheet that allows me to track my hours in a research lab and embedded many specific formats and functions within in order to be able to do these calculations automatically.
  ![](/timetable.png)
- - I came up with this project as I wanted an easy way to track my hours that I work in my research lab affiliated with my medical office. I used excel and its complex functions in order to complete this project. The challenges that I faced were that I had trouble getting the correct format of time within the sheet as, when it had to be a specific format in order for the calculation to be automatic.  I overcame this challenge by talking to my peers in this field. My result was that I created a timesheet that is able to track and calculate my total hours worked over of biweekly period. If I had the chance to take this farther, I would add more slots for other workers in the lab, so that I could also have an easy place to keep track of my coworkers hours as well.
+ Initial Project Idea:
+ I came up with this project as I wanted an easy way to track my hours that I work in my research lab affiliated with my medical office. 
+ Tools I Used:
+ I used excel and its complex functions in order to complete this project. 
+ Challenges I faced: 
+ The challenges that I faced were that I had trouble getting the correct format of time within the sheet as, when it had to be a specific format in order for the calculation to be automatic.  I overcame this challenge by talking to my peers in this field.
+ Result:
+ My result was that I created a timesheet that is able to track and calculate my total hours worked over of biweekly period. If I had the chance to take this farther, I would add more slots for other workers in the lab, so that I could also have an easy place to keep track of my coworkers hours as well.
 
 ***
 #### Personality Test
