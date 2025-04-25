@@ -1,14 +1,7 @@
 
 title: Maeve Sullivan Portfolio
-#logo: "/1163B373-9C48-45E9-9FB9-51317E829F2E.jpg"
-image_element:
-  src: "/1163B373-9C48-45E9-9FB9-51317E829F2E.jpg"
-  style: |
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    object-fit: cover;
-    
+logo: "/1163B373-9C48-45E9-9FB9-51317E829F2E.jpg"
+
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal

@@ -1,4 +1,5 @@
-![](/pink banner.jpg)
+![](/pink_banner.jpg)
+
 # Maeve_Sullivan_Portfolio
 This is a portfolio for Maeve Sullivan
 # Maeve Sullivan
