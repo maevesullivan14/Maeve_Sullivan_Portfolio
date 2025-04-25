@@ -1,32 +1,33 @@
 # Maeve_Sullivan_Portfolio
 This is a portfolio for Maeve Sullivan
 # Maeve Sullivan
-Contact Info: [(585) 455-1053]
+Contact Info: (585) 455-1053
 ### About Me 
-[Hello! I am an experienced Pediatrician and Medical professional with over 5
+Hello! I am an experienced Pediatrician and Medical professional with over 5
 years of proven expertise in Medicine and Pediatrics. 
 
 With skills in clinical care, open communication, medical research, and education, I am able to treat kids of all ages, and achieve strong patient and family relations. I am adept at using digital spreadsheets, diagnostic tools, and computer coding systems. 
 
 My diverse skill set, commitment to family health, and passion for research me as a valuable asset.  In my spare time, I like to alpine ski and travel. 
 
-You can find me on Instagram or Facebook.]
+You can find me on Instagram or Facebook
 
 ### Education 
-[Pittsford Sutherland High School, Loyola University Maryland]
+Pittsford Sutherland High School, Loyola University Maryland
 ***
 ### Projects
 
-#### Project 1 Title
+#### Bi-Weekly Time Sheet
  -  I created an excel spreadsheet that allows me to track my hours in a research lab and embedded many specific formats and functions within in order to be able to do these calculations automatically.
- - ![](/timetable.png)
+ ![](/timetable.png)
  - I came up with this project as I wanted an easy way to track my hours that I work in my research lab affiliated with my medical office. I used excel and its complex functions in order to complete this project. The challenges that I faced were that I had trouble getting the correct format of time within the sheet as, when it had to be a specific format in order for the calculation to be automatic.  I overcame this challenge by talking to my peers in this field. My result was that I created a timesheet that is able to track and calculate my total hours worked over of biweekly period. If I had the chance to take this farther, I would add more slots for other workers in the lab, so that I could also have an easy place to keep track of my coworkers hours as well.
 
 ***
 #### Project 2 Title
- - Project 2 Summary
- - [insert project 2 screenshot here]
- - Project 2 Report
+ - I created a creative and engaging personality test on Python using a variety of algorithms for people to find out which holiday they correspond to.
+ ![](personalitry cod.png)
+ - I came up with this project as I wanted to create an engaging and creative personality test to use with my coworkers in order to get to know each other and form relationships. I used python in order to code for this personality test. The challenges that I faced were that I had problems getting my code to run the proper error checking method which is a crucial part of this test as it prevents the results of the test from being messed up. My result was that I created a test that prompts the reader ten questions, and based on their answers it tells the reader which holiday they are based on the algorithms and codes that I created, it also has error checking methods that prevent the results from being messed with the entrance of a wrong letter or symbol.
+
 ***
 #### Project 3 Title
  - Project 3 Summary
