@@ -23,6 +23,7 @@ Pittsford Sutherland High School, Loyola University Maryland
 
 #### Bi-Weekly Time Sheet
  -  I created an excel spreadsheet that allows me to track my hours in a research lab and embedded many specific formats and functions within in order to be able to do these calculations automatically.
+ 
  ![](/timetable.png)
 
 - Initial Project Idea:
@@ -44,6 +45,7 @@ Pittsford Sutherland High School, Loyola University Maryland
 ***
 #### Personality Test
  - I created a creative and engaging personality test on Python using a variety of algorithms for people to find out which holiday they correspond to.
+
  ![](personality_code.png)
  ![](/personalitry_code_pic2.png)
 
@@ -66,7 +68,22 @@ Pittsford Sutherland High School, Loyola University Maryland
 ***
 #### Grade Calculator
  - I created an advanced and highly functional Excel algorithm that generates a letter grade based on users varying assignment scores and weights.
+
  ![](/grade_calc.png)
  ![](/grade_calcuulator.png)
- - I came up with the idea of a grade calculator as I wanted a sheet that would automatically generate my grade for classes in medical school which helped reduce test anxiety.  I utilized Excel and its numerous advanced functions such as “if statements” that allowed me to create equations and formats resulting in automatic calculations. I faced challenges when creating “if statements”. At first, my equations and formats would not generate an F, even when the grades inputted should have yielded this letter. I faced this by watching professional videos that helped explain the complicated and advanced algorithms of Excel.  I created a sheet in Excel that allowed the user to enter their grades on assignments and the respective weight of the assignments, which ultimately was able to automatically generate a letter grade.
+
+ - Inital Project Idea: 
+
+ I came up with the idea of a grade calculator as I wanted a sheet that would automatically generate my grade for classes in medical school which helped reduce test anxiety. 
+ - Tools I Used:
+
+ I utilized Excel and its numerous advanced functions such as “if statements” that allowed me to create equations and formats resulting in automatic calculations.
+
+ - Challenges I Faced:
+
+ I faced challenges when creating “if statements”. At first, my equations and formats would not generate an F, even when the grades inputted should have yielded this letter. I faced this by watching professional videos that helped explain the complicated and advanced algorithms of Excel.
+
+ - Result:
+
+ I created a sheet in Excel that allowed the user to enter their grades on assignments and the respective weight of the assignments, which ultimately was able to automatically generate a letter grade.
 
