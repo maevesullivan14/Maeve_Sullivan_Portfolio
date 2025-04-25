@@ -13,6 +13,17 @@ My diverse skill set, commitment to family health, and passion for research me a
 
 You can find me on Instagram or Moodle.
 
+![
+    <img
+        src="1163B373-9C48-45E9-9FB9-51317E829F2E.jpg" 
+        width=70%
+        border-radius=50%
+        title="Maeve Sullivan"
+        alt="Profile Pic"
+    />
+](1163B373-9C48-45E9-9FB9-51317E829F2E.jpg)
+
+
 ### Education 
 Pittsford Sutherland High School, Loyola University Maryland
 ***
